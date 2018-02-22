@@ -2,7 +2,7 @@
 
 Solution to Kaggle's [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 
-Applies transfer learning on 4 models trained on ImageNet:
+Applies transfer learning on 4 ImageNet models:
 - InceptionResNetV2
 - VGG16
 - ResNet50
